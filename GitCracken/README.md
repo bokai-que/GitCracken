@@ -15,6 +15,7 @@ Working on `GNU/Linux` (without `snap`), `Windows` and `macOS`!
 
 - `yarn install`
 - `yarn build`
+- `node dist/bin/gitcracken.js patcher --asar 你的gitkraken的目录/resources/app.asar`
 - `node dist/bin/gitcracken.js --help` for more usage information
 
 ### Patcher
